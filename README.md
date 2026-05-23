@@ -8,7 +8,6 @@
 
 
 ## Project Overview
-
 This project presents an end-to-end Data Mining workflow to classify Iris flowers (Iris setosa, Iris versicolor, Iris virginica) using a Random Forest Classifier, deployed through an interactive Streamlit dashboard. The objective is to predict the species of a flower based on four numerical features and to visually communicate the results through an intuitive and interactive interface.
 
 ### Dataset
@@ -25,7 +24,6 @@ Features:
 - Petal Width (cm)
 
 ## Methodology
-
 1. Data Understanding
    Descriptive statistics
    Feature distributions per species
@@ -67,12 +65,10 @@ The Random Forest Classifier was selected because:
 
 
 ## Deployment
-
 Deployed on **Streamlit Community Cloud**:  
 https://iris-classification-acsappvej9udlgcdgvb5bkg.streamlit.app/
 
 ## Video Presentation
-
 [Add your video link here]
 
 
